@@ -12,3 +12,4 @@
 
 **Docker Hub :** https://hub.docker.com/repository/docker/natounor/mongo-blog/general 
 
+**Dépôt Git :** Contient le Dockerfile, le script .js, le script Bash/PS1, le README.md, ainsi que les 4 captures d'écran demandé 
