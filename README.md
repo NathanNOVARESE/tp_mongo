@@ -1,5 +1,5 @@
-## TP Docker - MongoDB
-# Installation Rapide
+# TP Docker - MongoDB
+## Installation Rapide
 
 **Secret :** Créer un fichier `.env` (voir `.env.example`).
 
