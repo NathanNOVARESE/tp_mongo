@@ -1,1 +1,24 @@
+# Git
+.git
+.gitignore
+
+# Environnements virtuels Python
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets
 .env
+
+# Données locales
+Capture/
+mysql_data/
+mongo_data/
+
+# Divers
+README.md
+check-status.ps1
+**/*.pyc
+**/*.pyo
+**/__pycache__
