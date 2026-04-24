@@ -17,7 +17,7 @@ TP_MONGO/
 ├── docker-compose.yml    # Orchestration des services
 ├── Dockerfile           # Image principale (si applicable)
 ├── check-status.ps1    # Script de vérification du statut
-├── .env.example        # Modèle de configuration
+├── .env.example        # Modèle de  configuration
 ├── .gitignore          # Exclusions Git
 └── README.md           # Cette documentation
 ```
