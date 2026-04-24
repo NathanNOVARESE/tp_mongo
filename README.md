@@ -54,7 +54,7 @@ TP_MONGO/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/natounor/mongo-blog.git
+git clone https://github.com/NathanNOVARESE/tp_mongo
 cd tp_mongo
 ```
 
