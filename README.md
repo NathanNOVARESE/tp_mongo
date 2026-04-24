@@ -1,17 +1,5 @@
 # TP Docker - MongoDB Blog
 
-
-## Table des matières
-
-- [Architecture](#-architecture)
-- [Prérequis](#-prérequis)
-- [Installation](#-installation)
-- [Utilisation](#-utilisation)
-- [Configuration](#-configuration)
-- [Points clés](#-points-clés)
-- [Vérification & Validation](#-vérification--validation)
-- [Ressources](#-ressources)
-
 ## Architecture
 
 ```
