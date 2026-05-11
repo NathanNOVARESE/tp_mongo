@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-       uses: action/checkout@v4
+        uses: action/checkout@v4
       - name: Build the task
         run: docker compose up-d:
         
