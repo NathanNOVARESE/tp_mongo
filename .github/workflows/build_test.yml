@@ -32,7 +32,6 @@ jobs:
           only-severities: critical,high
           exit-code: false
 
-# Add a dependency to the build job
   docker-compose: 
     needs: build_test
     runs-on: ubuntu-latest
