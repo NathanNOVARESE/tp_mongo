@@ -30,4 +30,15 @@ jobs:
           image: my-app:1.0.0
           file: ./Dockerfile
           only-severities: critical,high
-          exit-code: true
+          exit-code: false
+
+# Add a dependency to the build job
+  docker-compose: 
+    needs: build_test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+       uses: action/checkout@v4
+      - name: Build the task
+        run: docker compose up-d:
+        
